@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #d0c0e0; /* Фоновый цвет страницы */
+    color: #4d2d52; /* Цвет текста */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #7b5b89; /* Цвет фона заголовка */
+    color: #fff; /* Цвет текста заголовка */
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #a98fb7; /* Цвет фона навигации */
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff; /* Цвет ссылок в навигации */
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #e0c7df; /* Цвет фона разделов */
+}
+
+img {
+    max-width: 100%;
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px ; /* Центрирование изображения */
+}
+
+footer {
+    background-color: #7b5b89; /* Цвет фона подвала */
+    color: #fff; /* Цвет текста подвала */
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
