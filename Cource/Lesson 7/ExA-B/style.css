@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li:nth-child(2n){
+    color:red;
+}
+ul{
+    padding-left: 25px;
+}
+::marker{
+    color: green;
+}
+::placeholder{
+    color: blue;
+}
+.container  h1{
+    margin: 0;
+}

@@ -1,0 +1,48 @@
+main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.contact-info p{
+    padding: 16px;
+    color: #333;
+}
+*{
+    background-color: #aab;
+}
+.description button{
+    padding: 14px;
+    border: 3px solid #889;
+    color: #666;
+    margin-top: 10px;
+    border-radius: 15px;
+    transition: 1s;
+}
+header nav{
+    display: flex;
+    justify-content: space-between;
+}
+header{
+    width: 60vw;
+    margin: 0 20vw;
+    margin-bottom: 4vh;
+}
+section{
+    border: 3px solid #444444;
+    border-radius: 35px;
+    text-align: center;
+    width: 45vw;
+    padding: 1vh 3vw;
+    margin: 1vh 0;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 45%;
+    right: 45%;
+}
+.description button:hover{
+    border: 3px solid #445;
+    color: #669;
+    font-size: 24px;
+}
