@@ -1,0 +1,17 @@
+span{
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+}
+.block{
+    display: block;
+    background-color: #6d4b8099;
+}
+.inline{
+    display: inline;
+    background-color: #76b5a699;
+}
+.inline-block{
+    display: inline-block;
+    background-color: #DFA5A599;
+}
