@@ -200,10 +200,10 @@ svg{
 }
 @media (max-width: 639px){
     .text-button h1 img{
-        width: 53px;
-        height: 41px;
-        left: 140px;
-        bottom: 25px;
+        width: 40px;
+        height: 30px;
+        left: 110px;
+        bottom: 35px;
     }
     .text-button h1{
         font-size: 50px;
