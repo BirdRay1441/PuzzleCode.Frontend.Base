@@ -193,9 +193,16 @@ svg{
     nav{
         display: block;
         text-align: center;
+        height: 100%;
+        padding-bottom: 10px;
     }
     menu{
         display: block;
+    }
+    menu p{
+        padding: 10px 0;
+        margin: 5px 0;
+        background-color: #445945;
     }
 }
 @media (max-width: 639px){
