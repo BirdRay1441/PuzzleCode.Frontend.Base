@@ -335,6 +335,7 @@ svg{
     padding: 0 25px;
     border-radius: 10px;
     transition: all 0.5s;
+    background-size: cover;
 }
 .Project svg{
     width: 24px;
